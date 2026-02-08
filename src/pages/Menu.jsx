@@ -68,7 +68,8 @@ const Menu = () => {
   };
 
   const handleWhatsAppOrder = () => {
-    const phoneNumber = "8801775484550";
+    // 👇 আপনার নতুন নাম্বার এখানে আপডেট করা হলো
+    const phoneNumber = "8801836885484";
     let message =
       "Hi Sweet Cakery! I want to order:%0A-----------------------%0A";
     let total = 0;
